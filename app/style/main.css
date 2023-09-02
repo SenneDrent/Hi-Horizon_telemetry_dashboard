@@ -1,0 +1,61 @@
+body {
+    color: #FFFFFF !important;
+    background-color: #191414 !important; 
+}
+
+.attribuut {
+    text-transform: uppercase !important;
+    font-size: 16px !important; 
+    /* text-align: center !important; */
+    color: #D7D7D7 !important;
+    margin-bottom: -10px !important;
+}
+
+.waarde {
+    font-size: 96px !important;
+    /* text-align: center !important; */
+}
+
+.zij {
+    font-size: 36px !important;
+    color: #AAAAAA !important;
+}
+
+.contrast {
+    background-color: #2D2D2D !important;
+    /* border-radius: 15px; */
+}
+
+.rood {
+    background-color: #FF2000 !important;
+}
+
+.margin {
+    margin: 5px !important;
+}
+
+
+.dashboard {
+    text-transform: uppercase !important;
+    font-size: 30px !important;
+    color: #FFFFFF !important;
+}
+
+.padding-top {
+    padding-top: 30px !important;
+}
+
+.padding-bottom {
+    padding-bottom: 30px !important;
+}
+
+.timer-sticky {
+    position: fixed !important;
+    height: 100px !important;
+    bottom: 0 !important;
+    width: 100% !important;
+}
+ 
+#mapid {
+    height: 400px !important;
+}
